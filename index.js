@@ -4,5 +4,5 @@ function sumOfTheNumber(number) {
         sum+=i;
     }
    return sum;
-   alert(sum)
 }
+alert(sum)
